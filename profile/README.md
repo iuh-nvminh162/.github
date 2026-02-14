@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/121565657?v=4" alt="nvminh162" width="200"/>
   
-  # 🎓 Nguyen Van Minh
+  # 🎓 Nguyen Van Minh ^^
   
   ### Industrial University of Ho Chi Minh City Organization
   
