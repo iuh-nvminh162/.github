@@ -7,7 +7,7 @@
   
   *Storage HUB*
   
-  [![Organization](https://img.shields.io/badge/Organization-IUH%20nvminh162-blue?style=for-the-badge)](https://github.com/iuh-nvminh162-org)
+  [![Organization](https://img.shields.io/badge/Organization-IUH%20nvminh162-blue?style=for-the-badge)](https://github.com/iuh-nvminh162)
   [![University](https://img.shields.io/badge/University-IUH-green?style=for-the-badge)](https://www.iuh.edu.vn/)
   [![Student](https://img.shields.io/badge/Student-nvminh162-orange?style=for-the-badge)](https://github.com/nvminh162)
 </div>
@@ -23,7 +23,7 @@
 - **Department:** Faculty of Information Technology
 - **Major:** Software Engineering
 - **GitHub:** [@nvminh162](https://github.com/nvminh162)
-- **Organization:** [@iuh-nvminh162-org](https://github.com/iuh-nvminh162-org)
+- **Organization:** [@iuh-nvminh162](https://github.com/iuh-nvminh162)
 - **University:** Industrial University of Ho Chi Minh City (IUH)
 
 ---
@@ -44,15 +44,15 @@ This organization was created to:
 
 | # | Repository | Description | Language |
 |---|------------|-------------|----------|
-| 1 | [iuh-distributed-programming-java](https://github.com/iuh-nvminh162-org/iuh-distributed-programming-java) | Distributed programming with java technology | Java |
-| 2 | [iuh-mobile-application-programming](https://github.com/iuh-nvminh162-org/iuh-mobile-application-programming) | Mobile Application Programming | TypeScript |
-| 3 | [iuh-www-programming](https://github.com/iuh-nvminh162-org/iuh-www-programming) | Advanced Web Programming/ WWW Programming (Java) | Java |
-| 4 | [iuh-quality-assurance-and-software-testing](https://github.com/iuh-nvminh162-org/iuh-quality-assurance-and-software-testing) | Quality assurance and software testing | C# |
-| 5 | [iuh-phan-tich-thiet-ke-he-thong](https://github.com/iuh-nvminh162-org/iuh-phan-tich-thiet-ke-he-thong) | System Analysis and Design | - |
-| 6 | [iuh-nhap-mon-an-toan-thong-tin](https://github.com/iuh-nvminh162-org/iuh-nhap-mon-an-toan-thong-tin) | Introduction to Information Security | - |
-| 7 | [iuh-emerging-technologies-it-app-development](https://github.com/iuh-nvminh162-org/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - |
-| 8 | [iuh-software-project-management](https://github.com/iuh-nvminh162-org/iuh-software-project-management) | Software Project Management | - |
-| 9 | [.github](https://github.com/iuh-nvminh162-org/.github) | Github organizations profile README | - |
+| 1 | [iuh-distributed-programming-java](https://github.com/iuh-nvminh162/iuh-distributed-programming-java) | Distributed programming with java technology | Java |
+| 2 | [iuh-mobile-application-programming](https://github.com/iuh-nvminh162/iuh-mobile-application-programming) | Mobile Application Programming | TypeScript |
+| 3 | [iuh-www-programming](https://github.com/iuh-nvminh162/iuh-www-programming) | Advanced Web Programming/ WWW Programming (Java) | Java |
+| 4 | [iuh-quality-assurance-and-software-testing](https://github.com/iuh-nvminh162/iuh-quality-assurance-and-software-testing) | Quality assurance and software testing | C# |
+| 5 | [iuh-phan-tich-thiet-ke-he-thong](https://github.com/iuh-nvminh162/iuh-phan-tich-thiet-ke-he-thong) | System Analysis and Design | - |
+| 6 | [iuh-nhap-mon-an-toan-thong-tin](https://github.com/iuh-nvminh162/iuh-nhap-mon-an-toan-thong-tin) | Introduction to Information Security | - |
+| 7 | [iuh-emerging-technologies-it-app-development](https://github.com/iuh-nvminh162/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - |
+| 8 | [iuh-software-project-management](https://github.com/iuh-nvminh162/iuh-software-project-management) | Software Project Management | - |
+| 9 | [.github](https://github.com/iuh-nvminh162/.github) | Github organizations profile README | - |
 
 ---
 
